@@ -1,6 +1,5 @@
 
 <h3 align="center"> Hi there 👋 </h3>
-<p align="center"> 안녕하세요, 김소희입니다!</p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/> 
