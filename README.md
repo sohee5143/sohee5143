@@ -12,18 +12,3 @@
 <p align="center">
 	https://hisoit.tistory.com/
 </p>
-
-<h3 align="center">📊 GitHub Stats 📊 </h3>
-<p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=sohee5143&theme=vue&show_icons=true"/></a>
-</p>
-
-
-
-<h3 align="center">🎇 My Hits 🎇 </h3>
-
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohee5143&count_bg=%236D8BAE&title_bg=%23808080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
